@@ -51,3 +51,6 @@ The dataset contains information about orders, customers, products, sellers, pay
 
 ## Conclusion
 This project demonstrates how SQL can be used to transform raw e-commerce data into meaningful business insights. It provided practical experience in data exploration, joins, aggregations, customer analysis, product analysis, and sales trend analysis.
+=======
+# Ecommerce-Sales-SQL-Analysis
+E-commerce sales and customer behaviour analysis using SQL Server
